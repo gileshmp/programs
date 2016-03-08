@@ -1,3 +1,5 @@
+#sample program a
+
 #include<stdio.h>
 int isVowel(char x)
 {
